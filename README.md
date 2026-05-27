@@ -1,0 +1,2 @@
+# Netflix-Content-Analysis-Dashboard-Interactive-Dashboard-Creation-using-Power-BI-
+I developed a Netflix Content Analysis Dashboard using Power BI to analyze Netflix movies and TV shows data and generate meaningful insights. The dashboard visualizes content distribution, genres, country-wise content availability, and content trends over time using interactive charts, filters, KPI cards, and data visualization techniques.
